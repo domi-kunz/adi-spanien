@@ -3,7 +3,7 @@
 #abort on errors
 set-e
 
-env PUBLIC_URL=https://domi-kunz.github.io/adi-spanien npm run build
+env PUBLIC_URL=https://domi-kunz.github.io/adi-spanien/ npm run build
 
 cd build
 
